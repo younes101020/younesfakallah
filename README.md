@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younès Fakallah</h1>
-<h3 align="center">A passionate web developer in France</h3>
+<h3 align="center">A passionate web developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f452a252f82bc347178045b73d04f928e9f6b6d5&rid=giphy.gif">
 
 
