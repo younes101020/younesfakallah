@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [the MVC refactoring of electra](https://github.com/younesfakallah/Electra)
 
-- 🌱 I’m currently learning **react and gsap**
+- 🌱 I’m currently learning **typescript, react and gsap**
 
 - 👨‍💻 Some of my projects are available at [https://younesfakallah.vercel.app](https://younesfakallah.vercel.app)
 
