@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesfakallah&label=Profile%20views&color=0e75b6&style=flat" alt="younesfakallah" /> </p>
 
-- 🔭 I'm currently working on [the MVC refactoring of electra](https://github.com/younesfakallah/Electra)
+- 🔭 I'm currently working on [Electra](https://github.com/younesfakallah/Electra)
 
 - 🌱 I’m currently learning **typescript, react and gsap**
 
