@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **typescript, react and gsap**
 
-- 👨‍💻 Some of my projects are available at [https://younesfakallah.vercel.app](https://younesfakallah.vercel.app)
-
-- 💬 Ask me about **javascript fundamentals, sass, oop**
-
 - 📫 How to reach me **younesfakallah60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
