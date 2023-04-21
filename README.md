@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesfakallah&label=Profile%20views&color=0e75b6&style=flat" alt="younesfakallah" /> </p>
 
-- 🔭 I'm currently working on [Electra](https://github.com/younesfakallah/Electra)
+- 🔭 I'm currently working on a [Weather app](https://github.com/younesfakallah/weatherapp)
 
 - 🌱 I’m currently learning **typescript, react and gsap**
 
@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vays" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/youn%c3%a8s-fakallah-a1b7b7220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youn%c3%a8s-fakallah-a1b7b7220/" height="30" width="40" /></a>
-<a href="https://dribbble.com/younesfakallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/younesfakallah" height="30" width="40" /></a>
-<a href="https://www.behance.net/youneslow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/youneslow" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucbve5df54jllytril31nbpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbve5df54jllytril31nbpg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
